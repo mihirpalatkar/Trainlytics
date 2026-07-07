@@ -5,9 +5,9 @@ Trainlytics is an intelligent train recommendation and delay prediction platform
 The platform combines data analytics with machine learning to estimate delays, predict expected arrival times, and provide actionable travel insights through an interactive Streamlit dashboard.
 
 ---
-## Link:- https://trainlytics-mihirpalatkar.streamlit.app/
+### Link:- https://trainlytics-mihirpalatkar.streamlit.app/
 
-### ✨ Features
+## ✨ Features
 
 ### Smart Train Recommendation
 
